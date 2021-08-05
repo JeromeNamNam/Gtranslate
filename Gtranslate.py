@@ -1,3 +1,5 @@
+#! /usr/bin/python
+
 python3 -m Bonjour Jerome
 import googletrans
 from googletrans import Translator
